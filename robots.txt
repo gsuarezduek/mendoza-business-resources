@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gsuarezduek.github.io/mendoza-business-resources/sitemap.xml

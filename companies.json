@@ -1,0 +1,434 @@
+{
+  "site": {
+    "title": "Empresas y servicios recomendados en Mendoza",
+    "tagline": "Guía local de empresas, comercios y servicios profesionales en Mendoza, Argentina.",
+    "description": "Directorio curado de empresas y servicios recomendados en Mendoza: turismo, marketing, construcción, industria, salud, alimentos, transporte y más.",
+    "url": "https://gsuarezduek.github.io/mendoza-business-resources/",
+    "year": 2026,
+    "locale": "es-AR",
+    "region": "Mendoza, Argentina"
+  },
+  "rubros_order": [
+    "Turismo",
+    "Marketing",
+    "Construcción",
+    "Industria",
+    "Salud",
+    "Alimentos",
+    "Transporte",
+    "Automóviles",
+    "Neumáticos",
+    "Seguros",
+    "Internet",
+    "Abogacía",
+    "Farmacia",
+    "Gimnasio",
+    "Moda"
+  ],
+  "companies": [
+    {
+      "name": "MDZ Rent A Car",
+      "url": "https://mdzrentacar.com/",
+      "type": "website",
+      "rubro": "Turismo",
+      "subrubro": "Alquiler de autos",
+      "keyword": "alquiler de autos en Mendoza",
+      "description": "Empresa familiar con más de 15 años dedicada al alquiler de autos en Mendoza, con entrega en aeropuerto y ciudad, asistencia 24 hs y permisos para cruzar a Chile.",
+      "featured": true
+    },
+    {
+      "name": "Gaby Helder",
+      "url": "https://gabyhelder.com/",
+      "type": "website",
+      "rubro": "Turismo",
+      "subrubro": "Agencia de viajes",
+      "keyword": "agencia de viajes en Mendoza",
+      "description": "Agencia de viajes en Mendoza con más de 12 años armando paquetes nacionales e internacionales, cruceros y experiencias personalizadas a más de 80 destinos.",
+      "featured": false
+    },
+    {
+      "name": "Kahuak",
+      "url": "https://kahuak.com.ar/",
+      "type": "website",
+      "rubro": "Turismo",
+      "subrubro": "Excursiones y tours",
+      "keyword": "excursiones y tours en Mendoza",
+      "description": "Operador con más de 18 años organizando excursiones y tours en Mendoza: visitas a bodegas del Valle de Uco y Luján, trekking, rafting y travesías por la cordillera.",
+      "featured": false
+    },
+    {
+      "name": "Aconcagua Mountain Guides",
+      "url": "https://aconcaguamountainguides.com/",
+      "type": "website",
+      "rubro": "Turismo",
+      "subrubro": "Expediciones al Aconcagua",
+      "keyword": "expediciones al Aconcagua en Mendoza",
+      "description": "Más de tres décadas guiando expediciones al Aconcagua desde Mendoza, con ascensos por la ruta Normal y Polish Traverse, trekkings y logística completa para escaladores.",
+      "featured": false
+    },
+    {
+      "name": "Andesport",
+      "url": "https://andesport.net/",
+      "type": "website",
+      "rubro": "Turismo",
+      "subrubro": "Turismo de aventura",
+      "keyword": "turismo de aventura y montaña en Mendoza",
+      "description": "Agencia especializada en turismo de aventura y montaña en Mendoza: expediciones al Aconcagua, trekkings, logística en Puente del Inca y servicios de arrieraje.",
+      "featured": false
+    },
+
+    {
+      "name": "BlissMKT",
+      "url": "https://blissmkt.ar/",
+      "type": "website",
+      "rubro": "Marketing",
+      "subrubro": "Agencia de marketing digital",
+      "keyword": "agencia de marketing digital en Mendoza",
+      "description": "Agencia de marketing digital en Mendoza con más de 10 años de experiencia en SEO, publicidad en Google y Meta, diseño web y manejo de redes sociales.",
+      "featured": true
+    },
+
+    {
+      "name": "Codeex Construcciones",
+      "url": "https://codeexconstrucciones.com.ar/",
+      "type": "website",
+      "rubro": "Construcción",
+      "subrubro": "Construcción de viviendas",
+      "keyword": "construcción de viviendas y edificios en Mendoza",
+      "description": "Constructora regional especializada en viviendas unifamiliares, edificios y complejos residenciales, con servicios de diseño 3D, obra y dirección de proyectos.",
+      "featured": false
+    },
+    {
+      "name": "Gdos Módulos",
+      "url": "https://gdosmodulos.com.ar/",
+      "type": "website",
+      "rubro": "Construcción",
+      "subrubro": "Módulos prefabricados",
+      "keyword": "alquiler de módulos habitacionales en Mendoza",
+      "description": "Alquiler y venta de módulos habitacionales en Mendoza para oficinas, obradores, comedores y depósitos, con soluciones estándar y a medida para minería, petróleo y construcción.",
+      "featured": false
+    },
+    {
+      "name": "Collca",
+      "url": "https://collca.com.ar/",
+      "type": "website",
+      "rubro": "Construcción",
+      "subrubro": "Parque industrial",
+      "keyword": "parque industrial y empresarial en Mendoza",
+      "description": "Desarrollo de un parque industrial y empresarial en el sur de Mendoza, con lotes escalables desde 1.000 m², infraestructura inteligente y conexión al Corredor Bioceánico.",
+      "featured": false
+    },
+    {
+      "name": "Corporación del Sur",
+      "url": "https://corporaciondelsur.com/",
+      "type": "website",
+      "rubro": "Construcción",
+      "subrubro": "Obras públicas y privadas",
+      "keyword": "empresa constructora de obras públicas en Mendoza",
+      "description": "Empresa constructora de obras públicas y privadas en Mendoza con más de 25 años ejecutando proyectos de salud, viales, hídricos, educativos y residenciales.",
+      "featured": false
+    },
+
+    {
+      "name": "Romeco",
+      "url": "https://romeco.com.ar/",
+      "type": "website",
+      "rubro": "Industria",
+      "subrubro": "Maquinaria para construcción",
+      "keyword": "alquiler de maquinaria para construcción en Mendoza",
+      "description": "Alquiler y venta de maquinaria para construcción en Mendoza: equipos de compactación, hormigón, generación, bombas de agua y herramientas de demolición de marcas líderes.",
+      "featured": false
+    },
+    {
+      "name": "Industria Villalobos",
+      "url": "https://industriavillalobos.com.ar/",
+      "type": "website",
+      "rubro": "Industria",
+      "subrubro": "Fundición de hierro y aluminio",
+      "keyword": "fábrica metalúrgica en Mendoza",
+      "description": "Fábrica metalúrgica en Mendoza con más de 50 años fundiendo hierro y aluminio para maquinaria agrícola, repuestos, equipamiento gastronómico y artículos de fitness.",
+      "featured": false
+    },
+    {
+      "name": "Visual Médica",
+      "url": "https://visualmedica.com/",
+      "type": "website",
+      "rubro": "Industria",
+      "subrubro": "Equipamiento médico audiovisual",
+      "keyword": "equipamiento médico audiovisual en Mendoza",
+      "description": "Desarrollo y fabricación de equipamiento médico audiovisual en Mendoza, con soluciones tecnológicas para quirófanos, diagnóstico por imágenes y centros de salud.",
+      "featured": false
+    },
+    {
+      "name": "Centro Vial",
+      "url": "https://centrovial.net/",
+      "type": "website",
+      "rubro": "Industria",
+      "subrubro": "Maquinaria vial pesada",
+      "keyword": "venta y alquiler de maquinaria vial en Mendoza",
+      "description": "Distribuidor de maquinaria vial pesada con venta, alquiler, repuestos y servicio técnico de marcas como Volvo, SDLG y Wacker Neuson para obras y construcción en Mendoza.",
+      "featured": false
+    },
+    {
+      "name": "Sanchez Sillero",
+      "url": "https://sanchezsillero.com.ar/",
+      "type": "website",
+      "rubro": "Industria",
+      "subrubro": "Construcción en seco",
+      "keyword": "materiales para construcción en seco en Mendoza",
+      "description": "Distribuidora con más de 60 años de trayectoria especializada en materiales para construcción en seco en Mendoza, con aislación termo-acústica, asesoramiento y envíos a obra.",
+      "featured": false
+    },
+    {
+      "name": "Tymaq",
+      "url": "https://tymaq.com.ar/",
+      "type": "website",
+      "rubro": "Industria",
+      "subrubro": "Maquinaria pesada",
+      "keyword": "venta de maquinaria pesada en Mendoza",
+      "description": "Distribuidor oficial Volvo y SDLG dedicado a la venta de maquinaria pesada en Mendoza, repuestos, servicio técnico, alquiler y capacitación operativa para obras y construcción.",
+      "featured": false
+    },
+    {
+      "name": "Forever Wood",
+      "url": "https://foreverwood.com.ar/",
+      "type": "website",
+      "rubro": "Industria",
+      "subrubro": "Packaging en madera",
+      "keyword": "packaging y regalos corporativos en madera en Mendoza",
+      "description": "Taller mendocino que produce packaging y regalos corporativos en madera en Mendoza, con cajas para vinos, mobiliario a medida, grabado láser e impresión personalizada.",
+      "featured": false
+    },
+    {
+      "name": "Orbitrix",
+      "url": "https://orbitrix.ar/",
+      "type": "website",
+      "rubro": "Industria",
+      "subrubro": "Soluciones industriales",
+      "keyword": "soluciones industriales en Mendoza",
+      "description": "Empresa enfocada en soluciones industriales en Mendoza, con productos y servicios técnicos orientados a la operación, mantenimiento y abastecimiento de proyectos productivos.",
+      "featured": false
+    },
+
+    {
+      "name": "Briggs",
+      "url": "https://briggs.com.ar/",
+      "type": "website",
+      "rubro": "Salud",
+      "subrubro": "Diagnóstico por imágenes",
+      "keyword": "centro de diagnóstico por imágenes en Mendoza",
+      "description": "Centro de diagnóstico por imágenes en Mendoza que ofrece tomografía multislice, resonancia magnética, ecografía, mamografía digital, densitometría y radiología.",
+      "featured": false
+    },
+    {
+      "name": "Centro Médico Palmares",
+      "url": "https://centromedicopalmares.com.ar/",
+      "type": "website",
+      "rubro": "Salud",
+      "subrubro": "Centro médico multiespecialidad",
+      "keyword": "centro médico privado en Mendoza",
+      "description": "Centro médico privado en Mendoza con más de 40 especialidades para adultos y pediatría, laboratorio y diagnóstico por imágenes con resonador, tomógrafo y ecografía.",
+      "featured": false
+    },
+    {
+      "name": "Laboratorio Paracelsus",
+      "url": "https://labparacelsus.com/",
+      "type": "website",
+      "rubro": "Salud",
+      "subrubro": "Análisis clínicos",
+      "keyword": "laboratorio de análisis clínicos en Mendoza",
+      "description": "Laboratorio de análisis clínicos en Mendoza que realiza estudios bioquímicos, hematológicos y de diagnóstico para pacientes particulares y derivaciones de obras sociales.",
+      "featured": false
+    },
+    {
+      "name": "Ceteu",
+      "url": "https://ceteu.com.ar/",
+      "type": "website",
+      "rubro": "Salud",
+      "subrubro": "Urología",
+      "keyword": "centro de urología en Mendoza",
+      "description": "Centro de urología en Mendoza con más de 15 años de experiencia, dedicado a consultas, estudios diagnósticos y tratamiento de enfermedades del sistema urinario.",
+      "featured": false
+    },
+    {
+      "name": "Kinesia",
+      "url": "https://kinesiasalud.com/",
+      "type": "website",
+      "rubro": "Salud",
+      "subrubro": "Kinesiología y rehabilitación",
+      "keyword": "kinesiología y rehabilitación en Mendoza",
+      "description": "Centro de kinesiología y rehabilitación en Mendoza orientado a tratamientos de lesiones, recuperación postquirúrgica, dolor crónico y rehabilitación deportiva.",
+      "featured": false
+    },
+
+    {
+      "name": "Difrusec",
+      "url": "https://difrusec.com/",
+      "type": "website",
+      "rubro": "Alimentos",
+      "subrubro": "Frutos secos mayorista",
+      "keyword": "frutos secos por mayor en Mendoza",
+      "description": "Mayorista de frutos secos por mayor en Mendoza con nueces del Valle de Uco, almendras y mezclas premium. Distribuye a comercios y clientes industriales en todo el país.",
+      "featured": false
+    },
+    {
+      "name": "Mística Natural",
+      "url": "https://misticanatural.com.ar/",
+      "type": "website",
+      "rubro": "Alimentos",
+      "subrubro": "Dietética y productos naturales",
+      "keyword": "dietética online en Mendoza",
+      "description": "Tienda de dietética online en Mendoza con alimentos naturales, orgánicos, suplementos y productos saludables para una alimentación consciente y libre de aditivos.",
+      "featured": false
+    },
+    {
+      "name": "Clisa",
+      "url": "https://clisainterior.com/",
+      "type": "website",
+      "rubro": "Alimentos",
+      "subrubro": "Distribuidora mayorista",
+      "keyword": "distribuidora mayorista de alimentos en Mendoza",
+      "description": "Distribuidora mayorista de alimentos en Mendoza orientada a comercios, kioscos y almacenes del interior, con logística propia y amplio surtido de marcas líderes.",
+      "featured": false
+    },
+    {
+      "name": "Celidiet",
+      "url": "https://celidiet.com/",
+      "type": "website",
+      "rubro": "Alimentos",
+      "subrubro": "Productos sin TACC",
+      "keyword": "productos sin TACC en Mendoza",
+      "description": "Especialistas en productos sin TACC en Mendoza orientados a personas celíacas y con intolerancias alimentarias: alimentos aptos, premezclas y opciones libres de gluten.",
+      "featured": false
+    },
+
+    {
+      "name": "Cata Internacional",
+      "url": "https://www.catainternacional.com",
+      "type": "website",
+      "rubro": "Transporte",
+      "subrubro": "Micros de larga distancia",
+      "keyword": "pasajes en micro de larga distancia desde Mendoza",
+      "description": "Empresa de pasajes en micro de larga distancia desde Mendoza hacia el resto del país y Chile, con servicios cama, viajes especiales y envío de encomiendas.",
+      "featured": false
+    },
+    {
+      "name": "Valero Comex",
+      "url": "http://www.valerocomex.com.ar/",
+      "type": "website",
+      "rubro": "Transporte",
+      "subrubro": "Comercio exterior",
+      "keyword": "despachante de aduana y comercio exterior en Mendoza",
+      "description": "Despachante de aduana y operador de comercio exterior en Mendoza, con servicios de importación, exportación y logística internacional para empresas de la región.",
+      "featured": false
+    },
+    {
+      "name": "Tracam",
+      "url": "https://tracam.net/",
+      "type": "website",
+      "rubro": "Transporte",
+      "subrubro": "Logística internacional",
+      "keyword": "logística internacional de cargas en Mendoza",
+      "description": "Especialistas en logística internacional de cargas en Mendoza: agente de transporte aduanero, forwarder, despachante de aduana y gestión integral de comercio exterior.",
+      "featured": false
+    },
+
+    {
+      "name": "Renault Mediterráneo",
+      "url": "https://www.mediterraneo.com.ar/",
+      "type": "website",
+      "rubro": "Automóviles",
+      "subrubro": "Concesionario oficial Renault",
+      "keyword": "concesionario Renault en Mendoza",
+      "description": "Concesionario oficial Renault en Mendoza con venta de vehículos 0km, planes de ahorro, posventa y servicio técnico autorizado de la marca.",
+      "featured": false
+    },
+
+    {
+      "name": "Parra Neumáticos",
+      "url": "https://parraneumaticos.com.ar/",
+      "type": "website",
+      "rubro": "Neumáticos",
+      "subrubro": "Venta y colocación de cubiertas",
+      "keyword": "venta de neumáticos en Mendoza",
+      "description": "Especialistas en venta de neumáticos en Mendoza para auto, camioneta y moto, representantes oficiales de Michelin y BF Goodrich en Cuyo. Colocación, alineación y balanceo.",
+      "featured": false
+    },
+
+    {
+      "name": "Mercado de Seguros Digitales",
+      "url": "https://msegurosdigitales.com.ar/",
+      "type": "website",
+      "rubro": "Seguros",
+      "subrubro": "Productor asesor de seguros",
+      "keyword": "seguro para auto en Mendoza",
+      "description": "Asesoramiento digital para contratar seguro para auto en Mendoza, moto y bicicleta, con coberturas desde Responsabilidad Civil hasta Todo Riesgo, 100% online.",
+      "featured": false
+    },
+
+    {
+      "name": "Wiber",
+      "url": "https://www.wiber.com.ar/",
+      "type": "website",
+      "rubro": "Internet",
+      "subrubro": "Proveedor de fibra óptica",
+      "keyword": "internet por fibra óptica en Mendoza",
+      "description": "Proveedor de internet por fibra óptica en Mendoza con planes residenciales de hasta 500 Mbps, telefonía fija e internet dedicado para empresas, con soporte local.",
+      "featured": false
+    },
+
+    {
+      "name": "Lui Estudio Abogados",
+      "url": "https://estudiolui.com.ar/",
+      "type": "website",
+      "rubro": "Abogacía",
+      "subrubro": "Estudio jurídico",
+      "keyword": "abogados de accidentes de tránsito en Mendoza",
+      "description": "Estudio jurídico con más de 35 años de trayectoria especializado en abogados de accidentes de tránsito en Mendoza, indemnizaciones y reparaciones civiles. Trabajan a resultado.",
+      "featured": false
+    },
+
+    {
+      "name": "Farmacias Mesura",
+      "url": "https://farmaciasmesura.com.ar/",
+      "type": "website",
+      "rubro": "Farmacia",
+      "subrubro": "Cadena de farmacias",
+      "keyword": "cadena de farmacias en Mendoza",
+      "description": "Cadena de farmacias en Mendoza con venta de medicamentos, dermocosmética y cuidado personal, retiro gratis en sucursal, envíos a domicilio y pago en cuotas.",
+      "featured": false
+    },
+
+    {
+      "name": "SportClub Mendoza",
+      "url": "https://www.instagram.com/sportclubmendozafit/",
+      "type": "instagram",
+      "rubro": "Gimnasio",
+      "subrubro": "Cadena de gimnasios",
+      "keyword": "gimnasio en Mendoza",
+      "description": "Sede mendocina de la cadena SportClub: gimnasio en Mendoza con musculación, clases grupales, funcional, spinning y plan unificado para acceder a todas las sedes del país.",
+      "featured": false
+    },
+    {
+      "name": "CEI Elite",
+      "url": "https://www.instagram.com/cei.elite/",
+      "type": "instagram",
+      "rubro": "Gimnasio",
+      "subrubro": "Entrenamiento personalizado",
+      "keyword": "entrenamiento personalizado en Mendoza",
+      "description": "Centro de entrenamiento personalizado en Mendoza con planificación individual, seguimiento de progreso y enfoque en rendimiento deportivo y composición corporal.",
+      "featured": false
+    },
+
+    {
+      "name": "Cayetana",
+      "url": "https://www.instagram.com/cayetanamza/",
+      "type": "instagram",
+      "rubro": "Moda",
+      "subrubro": "Indumentaria femenina",
+      "keyword": "indumentaria de mujer en Mendoza",
+      "description": "Marca mendocina de indumentaria de mujer en Mendoza con prendas de uso diario y propuestas de temporada. Catálogo y novedades disponibles vía Instagram.",
+      "featured": false
+    }
+  ]
+}
